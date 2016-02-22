@@ -1,4 +1,4 @@
-# CRUD
+# CRUD with Spring, Hibernate, SprigMVC
 
 Govnocode in Action
 
