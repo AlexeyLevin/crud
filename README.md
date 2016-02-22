@@ -2,7 +2,11 @@
 
 Govnocode in Action
 
+
+
 Login & password to test this app:
+
+crud/src/main/webapp/WEB-INF/spring/security.xml
 
         <user name="admin" password="pass" authorities="ROLE_ADMIN,ROLE_USER" />
 				<user name="user1" password="1111" authorities="ROLE_USER" />
