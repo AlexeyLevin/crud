@@ -1,4 +1,4 @@
-# CRUD(pagin, search) with Spring, Hibernate, SprigMVC
+# CRUD(pagin, search) with Spring, Hibernate, SpringMVC
 
 Govnocode in Action
 
