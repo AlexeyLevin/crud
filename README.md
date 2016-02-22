@@ -1,4 +1,4 @@
-# CRUD webApp(pagin, search) with Spring, Hibernate, SpringMVC
+# CRUD webApp(paging, search) with Spring, Hibernate, SpringMVC
 
 Govnocode in Action
 
