@@ -2,8 +2,6 @@
 
 Govnocode in Action
 
-
-
 Login & password to test this app:
 
 crud/src/main/webapp/WEB-INF/spring/security.xml
